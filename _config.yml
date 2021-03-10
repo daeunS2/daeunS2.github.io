@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "다은"
 description              : "20121"
-url                      : "https://daeunS2.github.io""
+url                      : "https://daeuns2.github.io""
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # "daeunS2/daeunS2.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
